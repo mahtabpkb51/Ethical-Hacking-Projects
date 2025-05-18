@@ -16,7 +16,7 @@ This project simulates **real-world network attacks and defense strategies** usi
 
 ## 📂 Project Contents
 
-- 📄 `CEH_Project_By_Anuj.pdf` – Full project report with screenshots and command outputs  
+- 📄 `CEH_Project_By_Mahtab.pdf` – Full project report with screenshots and command outputs  
 - 🖼️ `Screenshots/` – Real-time evidence of network attacks and security defenses *(to be uploaded)*
 
 ---
